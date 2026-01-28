@@ -1,1 +1,1 @@
-Still improving !!
+This README file explains the purpose of the project, how it works, and how to run it locally. It provides an overview of the features, setup instructions, and basic usage so that anyone can understand the project easily before exploring the code.
